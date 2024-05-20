@@ -6,7 +6,7 @@ Hello! I'm Woohyuck Jeong. I majored in Finance and data science and primarily u
 I have worked on various projects involving machine learning, deep learning and data analysis.
 
 - **Name**: Woohyuck Jeong
-- **Major**: Finance, Data science
+- **Major**: Finance Account, Data science
 - **Email**: cj0336j@gmail.com
 - **GitHub**: [Jacob's GitHub](https://github.com/Jacob-9909/Jacob_hub)
 
