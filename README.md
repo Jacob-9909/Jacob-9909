@@ -16,7 +16,8 @@ I have worked on various projects involving machine learning, deep learning and 
 ## Studying
 - log data analysis
 - ML modeling
-
+- Docker
+- Kubernetes
 
 
 ## Languages and Tools 
