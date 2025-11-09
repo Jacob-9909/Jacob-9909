@@ -41,7 +41,7 @@ Primarily use Python for data preprocessing, machine learning modeling, and LLM 
 
 | LangChain | LangGraph | Google ADK | MCP |
 |----------|----------|----------|----------|
-|<img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/langchain-logo.png" title="LangChain" alt="LangChain" width="55" height="55"/>|<img src="https://github.com/langchain-ai/langgraph/blob/main/docs/static/img/langgraph-logo.png" title="LangGraph" alt="LangGraph" width="55" height="55"/>|<img src="https://developers.google.com/static/site-assets/images/products/google.svg" title="Google ADK" alt="Google ADK" width="55" height="55"/>|<img src="https://modelcontextprotocol.io/logo.png" title="MCP" alt="MCP" width="55" height="55"/>|
+|<img src="assets/langchain-logo.svg" title="LangChain" alt="LangChain" width="55" height="55"/>|<img src="assets/langgraph-logo.svg" title="LangGraph" alt="LangGraph" width="55" height="55"/>|<img src="assets/google_adk.png" title="Google ADK" alt="Google ADK" width="55" height="55"/>|<img src="assets/mcp-logo.svg" title="MCP" alt="MCP" width="55" height="55"/>|
 
 
 ### My tools for Data Manipulation & Visualisation:
