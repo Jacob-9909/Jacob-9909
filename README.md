@@ -6,18 +6,18 @@
 
 ## Introduction
 
-Hello! I'm Woohyuck Jeong. I majored in Finance and data science and primarily use Python for data preprocessing and modeling. 
-I have worked on various projects involving machine learning, deep learning and data analysis.
+Hello! I'm Woohyuck Jeong.  
+I majored in Finance Accounting and Data Science.  
+Primarily use Python for data preprocessing, machine learning modeling, and LLM service like RAG, Agent, MCP, and Text-to-SQL. 
 
 - **Name**: Woohyuck Jeong
 - **Major**: Finance Account, Data science
 - **Email**: cj0336j@gmail.com
 
 ## Studying
-- log data analysis
-- ML modeling
-- Docker
-- Kubernetes
+- LLM Auto Trading with web app
+- MCP
+- GraphDB(Graphiti, Ontology)
 
 
 ## Languages and Tools 
@@ -37,19 +37,25 @@ I have worked on various projects involving machine learning, deep learning and 
 |<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/>|
 
 
+### Frameowrks and main libraries for LLM
+
+| LangChain | LangGraph | Google ADK | MCP |
+|----------|----------|----------|----------|
+|<img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/langchain-logo.png" title="LangChain" alt="LangChain" width="55" height="55"/>|<img src="https://github.com/langchain-ai/langgraph/blob/main/docs/static/img/langgraph-logo.png" title="LangGraph" alt="LangGraph" width="55" height="55"/>|<img src="https://developers.google.com/static/site-assets/images/products/google.svg" title="Google ADK" alt="Google ADK" width="55" height="55"/>|<img src="https://modelcontextprotocol.io/logo.png" title="MCP" alt="MCP" width="55" height="55"/>|
+
 
 ### My tools for Data Manipulation & Visualisation:
 
-| Jupyter | Conda | Matplotlib | MySQL | Tableau | DataGrip |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" width="55" height="55"/>|
+| Jupyter | Matplotlib | MySQL | PostgreSQL | Redis | Prometheus | Tableau |
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/>|
 
 
 ### Environments, Testing, Other:
 
-| Git | GitLab | VS Code | Docker |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
+| Git | Docker | Kubernetes |
+|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>|
 
 
 <p align="center">
