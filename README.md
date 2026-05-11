@@ -4,15 +4,16 @@
 
 
 
-## Introduction
+## About Me
 
-Hello!  
-I majored in Finance Accounting and Data Science.  
-Experienced in backend development, DB design, and building AI-powered services including LLM applications, RAG pipelines, Agent systems with MCP & Tool Use, and machine learning modeling.
+Hello! I'm Woohyuck Jeong, an **AI Agent Developer** currently working at **Didim**.  
+I specialize in building intelligent agentic systems and optimizing language model deployments.
 
-- **Name**: Woohyuck Jeong
-- **Major**: Finance Accounting, Data Science
-- **Email**: cj0336j@gmail.com
+- **Current Focus**: AI Agent Development, LLM serving (vLLM, Ollama), and Model Fine-Tuning.
+- **Experience**: Backend development, DB design, RAG pipelines, and AI-powered services (MCP & Tool Use).
+- **Background**: Majored in Finance Accounting & Data Science.
+
+
 
 ## Studying
 - Agent System Design (MCP, Tool Use, Multi-Agent Orchestration)
@@ -21,41 +22,43 @@ Experienced in backend development, DB design, and building AI-powered services 
 
 
 ## Languages and Tools 
-<div>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html" />
+</p>
 
-### Languages:
-| Python3 | Java | HTML |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|
+### Machine Learning & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,selenium" />
+</p>
 
-  
+### Backend Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
-### Frameworks and main libraries for Python3:
+### LLM Frameworks & Tools
+<p>
+  <img src="assets/langchain-logo.svg" title="LangChain" alt="LangChain" width="50" height="50"/>
+  <img src="assets/langgraph-logo.svg" title="LangGraph" alt="LangGraph" width="50" height="50"/>
+  <img src="assets/google_adk.png" title="Google ADK" alt="Google ADK" width="50" height="50"/>
+  <img src="assets/mcp-logo.svg" title="MCP" alt="MCP" width="50" height="50"/>
+</p>
 
-| Pandas | Sklearn | Pytorch | Selenium |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/>|
+### Databases, Monitoring & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,elasticsearch,redis,prometheus,tableau" />
+</p>
 
+### DevOps & Cloud Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,docker,kubernetes,terraform,gcp,vercel" />
+</p>
 
-### Frameowrks and main libraries for LLM
-
-| LangChain | LangGraph | Google ADK | MCP |
-|----------|----------|----------|----------|
-|<img src="assets/langchain-logo.svg" title="LangChain" alt="LangChain" width="55" height="55"/>|<img src="assets/langgraph-logo.svg" title="LangGraph" alt="LangGraph" width="55" height="55"/>|<img src="assets/google_adk.png" title="Google ADK" alt="Google ADK" width="55" height="55"/>|<img src="assets/mcp-logo.svg" title="MCP" alt="MCP" width="55" height="55"/>|
-
-
-### My tools for Data Manipulation & Visualisation:
-
-| Matplotlib | MySQL | PostgreSQL | Redis | Prometheus | Tableau |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="55" height="55"/>|
-
-
-### Environments, Testing, Other:
-
-| Git | Docker | Kubernetes | GCP |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/>|
+### Productivity & Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=obsidian,notion,anaconda" />
+</p>
 
 
 <p align="center">
