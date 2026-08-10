@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=AI%20Agent%20Developer&desc=Building%20Intelligent%20Agentic%20Systems%20%26%20LLM%20Pipelines&fontSize=55&descSize=20&fontAlign=50&descAlign=50&descAlignY=70&fontColor=ffffff&strokeColor=000000&strokeWidth=1&animation=fadeIn)
+![header](assets/header.svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+Agent+Developer+%40+Didim;Building+Agentic+Systems+%26+LLM+Pipelines;RAG+%7C+Multi-Agent+%7C+Model+Fine-Tuning" alt="Typing SVG" /></a>
