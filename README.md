@@ -1,4 +1,4 @@
-![header](assets/header.svg)
+![header](assets/banner.svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+Agent+Developer+%40+Didim;Building+Agentic+Systems+%26+LLM+Pipelines;RAG+%7C+Multi-Agent+%7C+Model+Fine-Tuning" alt="Typing SVG" /></a>
