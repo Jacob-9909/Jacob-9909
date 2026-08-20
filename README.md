@@ -20,7 +20,7 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 
 <p align="center">
   <img height="165" src="https://grs-rose.vercel.app/api?username=Jacob-9909&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://grs-rose.vercel.app/api/top-langs/?username=Jacob-9909&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://grs-rose.vercel.app/api/top-langs/?username=Jacob-9909&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 <p align="center">
