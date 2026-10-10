@@ -19,8 +19,8 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://grs-rose.vercel.app/api?username=Jacob-9909&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://grs-rose.vercel.app/api/top-langs/?username=Jacob-9909&layout=compact&theme=tokyonight&hide_border=true&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacob-9909&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-9909&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jacob-9909&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://ghchart.rshah.org/6C63FF/Jacob-9909" alt="contribution chart" width="820" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 ---
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://raw.githubusercontent.com/Jacob-9909/Jacob-9909/output/github-snake.svg" alt="snake"/>
 </p>
 
 <p align="center">
