@@ -19,15 +19,6 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacob-9909&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-9909&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacob-9909&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/6C63FF/Jacob-9909" alt="contribution chart" width="820" />
 </p>
 
@@ -39,9 +30,14 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 - RAG Pipeline & Knowledge Graph (Graphiti, Ontology)
 
 ## Featured Projects
-- [**tablefold**](https://github.com/Jacob-9909/tablefold): Folds a wide physical schema into a few logical models an LLM can read in one shot, then expands the SQL back — RAG over complex data structures.
-- [**Langgraph_Asset**](https://github.com/Jacob-9909/Langgraph_Asset): LangGraph-based multi-agent service for customer-aware asset management, using tool calling and orchestration pipelines.
-- [**OpenTrading**](https://github.com/Jacob-9909/OpenTrading): LLM-driven automated trading experiments with real-time decision making.
+- [**midas-touch**](https://github.com/Jacob-9909/midas-touch): AI financial assistant that cites its sources — scam message checks, deterministic tax calculation, and housing subscription advice with LangGraph and GraphRAG. [Live demo](https://midas-touch-five.vercel.app)
+- [**kaspflow**](https://github.com/Jacob-9909/kaspflow): Real-time crypto data pipeline — Binance → Kafka → Spark Structured Streaming → PostgreSQL → FastAPI → React, with backtesting. [Live demo](https://bit-kaspflow.duckdns.org)
+- [**tablefold**](https://github.com/Jacob-9909/tablefold): Folds a wide physical schema into a few logical models an LLM can read in one shot, then expands the SQL back.
+- [**OpenTrading**](https://github.com/Jacob-9909/OpenTrading): LangGraph multi-agent trading system with a risk engine and multi-position management.
+
+## Open Source Contributions
+- [hmmhmmhm/daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp/pulls?q=is%3Apr+author%3AJacob-9909+is%3Amerged) — 3 merged PRs
+- [mvschwarz/openrig](https://github.com/mvschwarz/openrig/pulls?q=is%3Apr+author%3AJacob-9909) · [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits/pulls?q=is%3Apr+author%3AJacob-9909) · [t8y2/dbx](https://github.com/t8y2/dbx/pulls?q=is%3Apr+author%3AJacob-9909) · [tunnetio/Tunnet](https://github.com/tunnetio/Tunnet/pulls?q=is%3Apr+author%3AJacob-9909) · [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils/pulls?q=is%3Apr+author%3AJacob-9909) — merged bug fixes
 
 ---
 
