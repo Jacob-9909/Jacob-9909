@@ -26,7 +26,6 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 
 ## Studying
 - Agent System Design (MCP, Tool Use, Multi-Agent Orchestration)
-- LLM Auto Trading with Web App
 - RAG Pipeline & Knowledge Graph (Graphiti, Ontology)
 
 ## Featured Projects
@@ -82,6 +81,8 @@ Hello! I'm **Woohyuck Jeong**, an AI Agent Developer at **Didim**, building inte
 </p>
 
 <p align="center">
+  <a href="https://jacob-9909.github.io/portfolio_web/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=githubpages&logoColor=white"/></a>
+  <a href="https://jacob-log.vercel.app"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="mailto:cj0336j@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Jacob-9909"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
